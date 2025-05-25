@@ -1,0 +1,12 @@
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.deps.json
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.dll
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\bin\Debug\net8.0\Elastic.Domain.pdb
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.AssemblyInfoInputs.cache
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.AssemblyInfo.cs
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.csproj.CoreCompileInputs.cache
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.sourcelink.json
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.dll
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\refint\Elastic.Domain.dll
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\Elastic.Domain.pdb
+D:\Study\Elastic-search\Elastic-search-aspnet-core\Elastic-search-aspnet-core\Elastic.Domain\obj\Debug\net8.0\ref\Elastic.Domain.dll

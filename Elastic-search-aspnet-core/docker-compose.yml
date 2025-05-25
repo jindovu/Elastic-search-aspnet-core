@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  elastic-search-aspnet-core:
+    image: ${DOCKER_REGISTRY-}elasticsearchaspnetcore
+    build:
+      context: .
+      dockerfile: Elastic-search-aspnet-core/Dockerfile
